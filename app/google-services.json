@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "219829589586",
+    "firebase_url": "https://chotha-vandar.firebaseio.com",
+    "project_id": "chotha-vandar",
+    "storage_bucket": "chotha-vandar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219829589586:android:abc235eedc45d7b4",
+        "android_client_info": {
+          "package_name": "hello.ankur.com.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219829589586-982ru4snpkotcn2s9723hpflmth4ohjf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hello.ankur.com.myapplication",
+            "certificate_hash": "02758d12634810777f407b4f690558ff5cfc3c3c"
+          }
+        },
+        {
+          "client_id": "219829589586-5brt1o485hu39kk6kvct9mbopdas38ij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWYlZwpGRfHHGof9vQnox6NP8FF4Fto3c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219829589586-5brt1o485hu39kk6kvct9mbopdas38ij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
